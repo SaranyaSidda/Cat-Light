@@ -1,0 +1,23 @@
+Cat and Light by using java seript:
+Obseervations:
+1 Swith status changes
+2 Bulb goes On and Off
+3 Cat become visible and invisible
+4 Switch(Button) background color cahnges
+
+steps:
+1 Make switches listen to user action
+2 Make bulb go On and Off
+3 Make cat visible and invisible
+4 Update switch status
+5 Change the background color of the switch
+
+Procedure:
+HTML:
+1 Division-1 is for the content on the webpage and class name as "dark-background" 
+	by using this class name background color ""#0b0b0b"" to the webpage.
+2 Division-2 and 3 is for assigning "bulb-on and cat" images.
+3 Division-4 is for the switch board alignments.
+4 Dividion -5 is named as "switch-board"
+
+	
